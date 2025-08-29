@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/PYNQ-z2/SPAD_simulator/SPAD_simulator.srcs/sources_1/new/spad_simulator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spad_simulator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/PYNQ-z2/SPAD_simulator/SPAD_simulator.srcs/sim_1/new/tb_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_spad_simulator
